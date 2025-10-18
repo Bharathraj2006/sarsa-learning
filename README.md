@@ -1,9 +1,5 @@
 # SARSA Learning Algorithm
 
-## Notebook:
-```
-https://colab.research.google.com/drive/1PS2kwanM8r9y0E7PqhLi8RH2V1WhvhxO?usp=sharing
-```
 ## AIM
 To implement the SARSA (State-Action-Reward-State-Action) learning algorithm to find the optimal policy for a given environment and to compare its performance with the Monte Carlo method.
 
